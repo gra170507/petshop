@@ -68,6 +68,161 @@ left: 1400px;
 top: 0px;
 }
 
+.carrinho {
+	position: absolute;
+width: 44px;
+height: 41px;
+left: 1450px;
+top: 0px;
+}
+
+.produtos {
+	position: absolute;
+width: 234px;
+height: 24px;
+left: 96px;
+top: 372px;
+
+font-family: 'Fredoka';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #1582A2;
+
+}
+
+.busca {
+
+position: absolute;
+width: 966px;
+height: 40px;
+left: 237px;
+top: 289px;
+padding: 3px;
+background: #DAE4E8;
+border: 0px solid #ccc;
+}
+
+.lupa {
+	position: absolute;
+width: 37px;
+height: 37px;
+left: 1209px;
+top: 292px;
+}
+
+.produto {
+float: left;
+width: 132px;
+height: 136px;
+left: 129px;
+top: 425px;
+border: 2px solid #A7D1DD;
+padding: 20px;
+margin-left: 50px;
+}
+
+.todos {
+	position: absolute;
+width: 1500px;
+height: 136px;
+left: 129px;
+top: 425px;
+padding: 20px;
+}
+.todos2 {
+	position: absolute;
+width: 1500px;
+height: 136px;
+left: 129px;
+top: 706px;
+padding: 20px;
+}
+
+
+.hellokitty {
+	position: absolute;
+width: 132px;
+height: 136px;
+left: 397px;
+top: 426px;
+border: 2px solid #A7D1DD;
+padding: 20px;
+
+}
+
+.pedigree {
+	position: absolute;
+width: 132px;
+height: 136px;
+left: 656px;
+top: 426px;
+border: 2px solid #A7D1DD;
+padding: 20px;
+}
+
+.cama {
+	position: absolute;
+width: 132px;
+height: 136px;
+left: 921px;
+top: 419px;
+border: 2px solid #A7D1DD;
+padding: 20px;
+}
+
+.antipulgas {
+	position: absolute;
+width: 132px;
+height: 136px;
+left: 1181px;
+top: 421px;
+border: 2px solid #A7D1DD;
+padding: 20px;
+}
+
+.favoritos {
+	position: absolute;
+width: 222px;
+height: 24px;
+left: 96px;
+top: 673px;
+
+font-family: 'Fredoka';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #1582A2;
+}
+
+.favracao {
+	position: absolute;
+width: 150px;
+height: 136px;
+left: 129px;
+top: 731px;
+border: 2px solid #A7D1DD;
+padding: 20px;
+}
+
+
+.textoimagem{
+	position: absolute;
+
+font-family: 'Inter' , sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+
+color: #000000;
+}
+
+
 
 
 
