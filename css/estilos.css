@@ -1,0 +1,19 @@
+body{
+	position: relative;
+width: 1440px;
+height: 1024px;
+background-color: #90E6FF;
+
+}
+
+.logo{
+	position: absolute;
+width: 274px;
+height: 230px;
+left: 641px;
+top: 0px;
+}
+
+
+
+
