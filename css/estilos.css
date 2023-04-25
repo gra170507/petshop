@@ -1,16 +1,70 @@
 body{
 	position: relative;
-width: 1440px;
+width: 1445px;
 height: 1024px;
-background-color: #90E6FF;
+background-color: #FFF;
 
 }
 
-.logo{
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+
+.inicio{
+	position: absolute;
+width: 1920px;
+height: 199px;
+left: 0px;
+top: 0px;
+
+background: #90E6FF;
+}
+
+
+
+.imagem1{
 	position: absolute;
 width: 274px;
 height: 230px;
 left: 641px;
+top: 0px;
+
+}
+
+.indice {
+	position: absolute;
+width: 1920px;
+height: 40px;
+left: 0px;
+top: 199px;
+
+background: #A7D1DD;
+}
+
+.textoindice {
+	position: absolute;
+width: 1920px;
+height: 40px;
+left: 450px;
+top: 10px;
+
+font-family: 'Fredoka';
+font-style: normal;
+font-weight: 300px;
+font-size: 20px;
+line-height: 24px;
+
+
+color: #1582A2;
+}
+
+.conta{
+	position: absolute;
+width: 44px;
+height: 41px;
+left: 1400px;
 top: 0px;
 }
 
