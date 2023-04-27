@@ -282,6 +282,89 @@ top: 793px;
 
 }
 
+h1 {
+	color: #1582a1;
+}
+
+.Titulo {
+	margin: 184px 768px 792px 311px;
+	font-family: poppins;
+}
+
+.bloco {
+	width: 847px;
+	height: 561px;
+	background-color: #dae4e8;
+	margin: -846px 309px 231px 284px;
+	border-radius: 50px;
+	font-family: poppins;
+	}
+
+.bloquinho {
+	width: 71px;
+	height: 65px;
+	background-color: #a7d1dd;
+	border-radius: 20px;
+	margin: -778px 309px 263px 1030px;
+	font-family: poppins;
+}
+
+.casinha {
+	margin: -819px 309px 231px 1049px;
+	font-family: poppins;
+}
+
+.subtitulo {
+	margin: -176px 768px 792px 383px;
+	font-family: poppins;
+}
+
+.senha {
+	margin: -751px 768px 792px 383px;
+	font-family: poppins;
+}
+
+.escrever {
+	margin: -787px 768px 792px 383px;
+	
+}
+
+.entrar {
+	width: 111px;
+	height: 42px;
+	background-color: #8ce584;
+	margin: -748px 768px 792px 677px;
+	border-radius: 20px;
+	font-family: poppins;
+}
+
+.botao {
+	margin: -825px 768px 792px 710px;
+	font-family: poppins;
+}
+
+.nao {
+	margin: -773px 768px 792px 619px;
+	font-family: poppins;
+	width: 500px;
+}
+
+.block {
+	width: 215px;
+	height: 36px;
+	background-color: #FFFFFF;
+	border: 2px solid #8ce584;
+	border-radius: 30px;
+	margin: -787px 768px 792px 630px;
+	font-family: poppins;
+}
+
+.cadastrar {
+	margin: -825px 768px 792px 683px;
+	width: 500px;
+	font-family: poppins;
+}
+
 
 
 
